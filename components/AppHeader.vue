@@ -1,10 +1,10 @@
 <template>
   <div>
-    <nav class="navbar navbar-expand-sm navbar-dark fixed-top">
+    <nav class="navbar navbar-expand-sm fixed-top">
       <div class="container-fluid">
 
         <a class="navbar-brand" href="#">
-          <img src="/public/images/img1.png" alt="Logo" height="30">
+          <img src="/public/images/img1.png">
         </a>
 
         <ul class="navbar-nav ms-auto">
@@ -38,10 +38,10 @@ export default {
 }
 
 .navbar .navbar-brand {
-  margin-left: 1%; /* Memastikan logo berada di kiri */
+  margin-left: 1%; 
 }
 
 .navbar img {
-  height: 35px; /* Sesuaikan tinggi gambar */
+  height: 35px; 
 }
 </style>

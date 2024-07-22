@@ -23,9 +23,6 @@
 </template>
 
 <script>
-export default {
-  // You can add any necessary logic here
-}
 </script>
 
 <style>

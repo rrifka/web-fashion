@@ -78,7 +78,7 @@
   flex-basis: 300px;
 }
 .footer-section.links {
-  margin-left: 15%; /* Move Quick Links to the right */
+  margin-left: 15%; 
 }
 .footer-section h2 {
   font-size: 24px;

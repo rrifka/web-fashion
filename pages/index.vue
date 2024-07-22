@@ -105,7 +105,7 @@
 <script>
 </script>
 
-<style scoped>
+<style>
 .welcome-box {
   background-color: #D5CEA3;
   border-radius: 10px;

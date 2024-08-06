@@ -12,7 +12,7 @@
             <NuxtLink class="nav-link" to="/">Home</NuxtLink>
           </li>
           <li class="nav-item">
-            <NuxtLink class="nav-link" to="/produk">Products</NuxtLink>
+            <NuxtLink class="nav-link" to="/produk/produk">Products</NuxtLink>
           </li>
           <li class="nav-item">
             <NuxtLink class="nav-link" to="/ttg">About Us</NuxtLink>
@@ -28,12 +28,12 @@
 
 <script>
 export default {
-  
+
 }
 </script>
 
 <style>
-.navbar{
+.navbar {
   background-color: #1A120B;
 }
 
@@ -43,5 +43,9 @@ export default {
 
 .navbar img {
   height: 35px; 
+}
+
+.nav-link {
+  color: white !important;
 }
 </style>

@@ -19,7 +19,7 @@
             <NuxtLink class="nav-link" to="/">Home</NuxtLink>
           </li>
           <li class="nav-item">
-            <NuxtLink class="nav-link" to="/produk">Products</NuxtLink>
+            <NuxtLink class="nav-link" to="/produk/produk">Products</NuxtLink>
           </li>
           <li class="nav-item">
             <NuxtLink class="nav-link" to="/ttg">About Us</NuxtLink>

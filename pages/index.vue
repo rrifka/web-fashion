@@ -6,7 +6,7 @@
           <p>New Trend 2024</p>
           <h1><strong>FASHION EXCHANGE</strong></h1>
           <h4>Discover the latest trends and styles for the upcoming season. Elevate your wardrobe with our exclusive collection.</h4>
-          <NuxtLink to="/products" class="shop-now-button">Shop Now</NuxtLink>
+          <NuxtLink to="/produk/produk" class="shop-now-button">Shop Now</NuxtLink>
         </div>
         <div class="welcome-image">
           <img src="public/images/4.png" alt="Welcome Image">
@@ -95,7 +95,7 @@
         
         <!-- button view all-->
         <div class="view-all-container">
-          <NuxtLink to="/produk" class="view-all-button">View All</NuxtLink>
+          <NuxtLink to="/produk/produk" class="view-all-button">View All</NuxtLink>
         </div>
       </div>
     </div>
